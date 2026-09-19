@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://1rayokelvin.github.io",
+  "homepage": "https://m-soni-physics.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

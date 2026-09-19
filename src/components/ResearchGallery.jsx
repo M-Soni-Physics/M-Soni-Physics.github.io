@@ -54,12 +54,12 @@ export function ResearchGallery() {
       links: [
         {
           label: "WaveLab Repository",
-          url: "https://github.com/1Rayokelvin/WaveLab",
+          url: "https://github.com/m-soni-physics/WaveLab",
           icon: <GithubIcon />
         },
         {
           label: "GitHub Profile",
-          url: "https://github.com/1Rayokelvin",
+          url: "https://github.com/m-soni-physics",
           icon: <GithubIcon />
         }
       ]

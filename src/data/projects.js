@@ -38,8 +38,8 @@ export const projects = [
       },
     ],
     links: [
-      { href: 'https://1rayokelvin.github.io/VectorWaves/', label: 'Documentation' },
-      { href: 'https://github.com/1Rayokelvin/VectorWaves', label: 'GitHub' },
+      { href: 'https://m-soni-physics.github.io/VectorWaves/', label: 'Documentation' },
+      { href: 'https://github.com/m-soni-physics/VectorWaves', label: 'GitHub' },
       { href: 'https://pypi.org/project/vectorwaves/', label: 'PyPI' }
     ]
   },
